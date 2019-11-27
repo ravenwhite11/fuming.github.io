@@ -98,7 +98,7 @@ a li{
 sidebar{
 	color: gray;
 	float: left;
-	position: absolute;top: 75vw ;left: 10%;
+	position: absolute;top: 71vw ;left: 6.5%;
 	text-align: center;
 }
 
@@ -147,7 +147,8 @@ aside{
 }	
 #Rectangle{ /* 湖水綠長方形 */
 	width: 75vw;
-	height: 68vw;
+	height: 80vw;
+	position: relative;top: 15vw;left:11.5vw;
 	background-color: #6ddbce;
 	-webkit-animation: SDB 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	animation: SDB 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
