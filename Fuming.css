@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap);
+/* @import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap); Noto Sans TC*/
 
 html body{
 	scroll-behavior:smooth;
 }
 
 body{
-	font-family: Noto Sans TC;
+	font-family: "微軟正黑體";
 	margin: 0;
 }
 		
@@ -64,7 +64,7 @@ a li{
 	clear: both;
 }
 #box1{ /* 背景 */
-	height: 150vh;
+	height: 1150px;
 	width: 100%;
 	background-image: url(IMG/white.jpg);
 	background-size: cover;
@@ -72,7 +72,7 @@ a li{
 	background-attachment: fixed;
 }
 #box2{
-	height: 295vh;
+	height: 2200px;
 	width: 100%;
 	background-image: url(IMG/grray.png);
 	background-size: cover;
@@ -80,7 +80,7 @@ a li{
 	background-attachment: fixed;
 }
 #box3{
-	height: 150vh;
+	height: 1150px;
 	width: 100%;
 	background-image: url(IMG/bg3.png);
 	background-size: cover;
@@ -88,7 +88,7 @@ a li{
 	background-attachment: fixed;
 }
 #box4{
-	height: 160vh;
+	height: 1200px;
 	width: 100%;
 	background-image: url(IMG/white.jpg);
 	background-size: cover;
